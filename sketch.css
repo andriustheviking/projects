@@ -1,0 +1,58 @@
+body {
+	text-align: center;
+	background-color: #ff5b54;
+	color: white;
+	font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+
+
+}
+
+h1 {
+	font-family: Brush Script MT, cursive;
+	font-size: 75px;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+input[type="button"], input[type="submit"] {
+	color: #fb4b56;
+	background-color: white;
+	border-style: none;	
+	width: 150px;
+	height: 75px;
+	margin: 15px 5px;
+	border-radius: 15px;
+	font-size: 20px;
+}
+
+.pixel {
+	height: 50px;
+	display: inline-block;
+	overflow: visible;
+
+}
+
+.gray {
+	background-color: gray
+}
+
+
+.rainbow{
+	background-color: #1d1e19;
+}
+
+.white{
+	background-color: #1d1e19;
+}
+
+#interface {
+	width: 80%;	
+	margin: auto;
+}
+
+#grid {
+	margin: auto;
+	width: 80%;
+	line-height: 0;
+	white-space: nowrap;
+}
